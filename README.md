@@ -18,6 +18,7 @@ public class Main {
             resultStr.append(Arrays.toString(rowArr)).append("\n");
         }
 
+
         int tColCount = arr.length;
         int tRowCount = arr[0].length;
 
