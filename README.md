@@ -1,4 +1,4 @@
-# matr-s
+# matris
 import java.util.Arrays;
 
 public class Main {
